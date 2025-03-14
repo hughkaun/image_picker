@@ -39,8 +39,6 @@ dependencies:
     git: 
       url: https://github.com/hughkaun/image_picker_ios.git
       ref: 1.0.0
-      path: image_picker_ios
-
 
 dev_dependencies:
   build_runner: ^2.1.10
